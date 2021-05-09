@@ -19,6 +19,7 @@ Two teams are required to separate "guideline definition" from "guideline implem
 
 
 ## Guidelines
+
 Id | Description
 ------------ | -------------
 G100.1 | Only two subscription owners allowed.
