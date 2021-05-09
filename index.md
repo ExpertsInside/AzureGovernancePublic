@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Azure Governance
 
-You can use the [editor on GitHub](https://github.com/ExpertsInside/AzureGovernancePublic/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Guidelines
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
