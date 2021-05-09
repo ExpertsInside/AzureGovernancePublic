@@ -1,7 +1,20 @@
-## Welcome to Azure Governance
+# Welcome to Azure Governance
+
+This doc is an example on how you can manage your Azure Governance in your organization.
+
+## Involved Teams
+
+Two teams are required to separate "guideline definition" from "guideline implementation". This is required like it is in politics (executive and legislative). This way the implemenatation team can't create own guidelines that would ultimatelly lead to bad quality.
+
+## The workflow
+
+1. Guidelines are implemented via this repository
+2. The Implementation Team respects all guidelines
+3. The Implementation Team can create pull requests to this guidelines
+4. The Governance Team reviews new guidelines via pull requests
 
 
-[Guidelines](#guidelines)
+## [Guidelines](#guidelines)
 Id | Description
 ------------ | -------------
 G100.1 | Only two subscription owners allowed.
