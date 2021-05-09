@@ -6,10 +6,6 @@ This doc is an example on how you can manage your Azure Governance in your organ
 
 [Guidelines](#guidelines)
 
-# [Heading Link](#section-i-want)
-
-## [Section I Want] 
-
 ## Involved Teams
 
 Two teams are required to separate "guideline definition" from "guideline implementation". This is required like it is in politics (executive and legislative). This way the implemenatation team can't create own guidelines that would ultimatelly lead to bad quality.
@@ -22,7 +18,7 @@ Two teams are required to separate "guideline definition" from "guideline implem
 4. The Governance Team reviews new guidelines via pull requests
 
 
-## [Guidelines]
+## Guidelines
 Id | Description
 ------------ | -------------
 G100.1 | Only two subscription owners allowed.
