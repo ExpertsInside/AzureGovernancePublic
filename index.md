@@ -14,11 +14,9 @@ We will cover the aspects in five different webinars. Later we will add the reco
 
 ## Navigation 
 
-[Involved Teams](#involved-teams)
-
-[The Workflow](#the-workflow)
-
-[Guidelines](#guidelines)
+- [Involved Teams](#involved-teams)
+- [The Workflow](#the-workflow)
+- [Guidelines](#guidelines)
 
 ## Involved Teams
 
