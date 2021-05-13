@@ -95,3 +95,4 @@ G400.1 | Cost | A monthly cost report splited by service is created. The IT lead
 
 - [Azure Tips and Tricks](https://microsoft.github.io/AzureTipsAndTricks)
 - [Azure Governance Visualizer](https://github.com/microsoft/CloudAdoptionFramework/tree/master/govern/AzureGovernanceVisualizer)
+- [Assign Pull Requests to defined project](https://github.com/apps/project-bot]
