@@ -82,6 +82,7 @@ Important: Don't change the Ids if possible. This allows to reference the guidel
 Id | Area | Description
 ------------ | ------------- | -------------
 G000.1 | Fundation | Exceptions to guidelines are always possible. They need to be approved by the Governance Team.
+G010.1 | Fundation | Training is always allowed up to 4h per week.
 G100.1 | Governance | Allowed locations "Switzerland North", "West Europe". Other locations need to be explained to the Governance Team.
 G100.2 | Governance | Tag "ServiceOwner" required on all subscriptions.
 G200.1 | Security | Only two subscription owners allowed.
