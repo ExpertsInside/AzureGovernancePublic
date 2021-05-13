@@ -52,7 +52,7 @@ Two teams are required to separate "guideline definition" from "guideline implem
 ## Guidelines
 
 Id | Area | Description
------------- | -------------
+------------ | ------------- | -------------
 G100.1 | Security | Only two subscription owners allowed.
 G100.2 | Security | PIM for Admin Accounts required.
 G100.3 | Organization | Tag "ServiceOwner" required on all subscriptions.
