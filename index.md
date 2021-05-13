@@ -61,5 +61,5 @@ G100.3 | Tag "ServiceOwner" required on all subscriptions.
 
 ## Next Steps
 
-[Azure Tips and Tricks](https://microsoft.github.io/AzureTipsAndTricks)
-[Azure Governance Visualizer](https://github.com/microsoft/CloudAdoptionFramework/tree/master/govern/AzureGovernanceVisualizer)
+- [Azure Tips and Tricks](https://microsoft.github.io/AzureTipsAndTricks)
+- [Azure Governance Visualizer](https://github.com/microsoft/CloudAdoptionFramework/tree/master/govern/AzureGovernanceVisualizer)
