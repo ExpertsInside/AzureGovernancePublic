@@ -55,6 +55,7 @@ Id | Description
 ------------ | -------------
 G100.1 | Only two subscription owners allowed.
 G100.2 | PIM for Admin Accounts required.
+G100.3 | Tag "ServiceOwner" required on all subscriptions.
 
 
 
