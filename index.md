@@ -51,12 +51,41 @@ Two teams are required to separate "guideline definition" from "guideline implem
 
 ## Guidelines
 
+### Areas
+
+- Foundation: Guidelines that define the "how we work".
+- Governance: Resource organization, policies, tags
+- Security: 
+  - General security guidelines like allowed owners, AAD groups to manage RBAC 
+  - Features from AAD like PIM, Conditional Access 
+- Networking: VPN, Network Security Group, Routing Tables, DNS
+- Cost: Cost controls like budget, cost alerts, reporting, payment methods
+
+### Guideline numbering schema
+
+Important: Don't change the Ids if possible. This allows to reference the guidelines.
+
+- G\[defined number for area\].\[ascending number for each guidelines\]
+- \[defined number for area\]:
+- Important sub-areas can get a new number instead of the defined below (ex. Foundation - General = 110, Foundation - Training = 120, Foundation - Processes = 130)
+  - 000: Foundation
+  - 100: Governance
+  - 200: Security
+  - 300: Networking
+  - 400: Cost
+- \[ascending number for each guideline\]
+  - Start with 1 and count up
+
+
 Id | Area | Description
 ------------ | ------------- | -------------
-G100.1 | Security | Only two subscription owners allowed.
-G100.2 | Security | PIM for Admin Accounts required.
-G100.3 | Organization | Tag "ServiceOwner" required on all subscriptions.
-
+G000.1 | Fundation | Exceptions to guidelines are always possible. They need to be approved by the Governance Team.
+G100.1 | Governance | Allowed locations "Switzerland North", "West Europe". Other locations need to be explained to the Governance Team.
+G100.2 | Governance | Tag "ServiceOwner" required on all subscriptions.
+G200.1 | Security | Only two subscription owners allowed.
+G200.2 | Security | PIM for Admin Accounts required.
+G300.1 | Networking | S2S VPN to on-premises is allowed if the company's security guidelines are followed.
+G400.1 | Cost | A monthly cost report splited by service is created. The IT lead and cost manager has access to these reports.
 
 
 ## Next Steps
