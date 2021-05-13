@@ -58,6 +58,6 @@ G100.2 | PIM for Admin Accounts required.
 
 
 
-## Further Read
+## Next Steps
 
 [Azure Governance Visualizer](https://github.com/microsoft/CloudAdoptionFramework/tree/master/govern/AzureGovernanceVisualizer)
