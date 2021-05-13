@@ -67,8 +67,10 @@ Important: Don't change the Ids if possible. This allows to reference the guidel
 
 - G\[defined number for area\].\[ascending number for each guidelines\]
 - \[defined number for area\]:
-- Important sub-areas can get a new number instead of the defined below (ex. Foundation - General = 110, Foundation - Training = 120, Foundation - Processes = 130)
+- Important sub-areas can get a new number instead of the defined below (ex. Foundation - Training = 110, Foundation - Processes = 120)
   - 000: Foundation
+    - 010: Training
+    - 020: Processes
   - 100: Governance
   - 200: Security
   - 300: Networking
