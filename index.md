@@ -7,7 +7,7 @@ This doc is an example on how you can manage your Azure Governance in your organ
 We will cover the aspects in five different webinars. Later we will add the recordings.
 
 1. 18.05.2021: [Initialzündung](https://www.eventbrite.ch/e/webinar-hiking-to-mount-azure-governance-initialzundung-tickets-153506487035)
-2. 01.06.2021: Governance Light
+2. 01.06.2021: [Governance Light](https://www.eventbrite.ch/e/webinar-hiking-to-mount-azure-governance-governance-light-tickets-154540166799)
 3. 08.06.2021
 4. 15.06.2021
 5. 22.06.2021
