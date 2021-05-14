@@ -89,6 +89,7 @@ G200.1 | Security | Only two subscription owners allowed.
 G200.2 | Security | PIM for Admin Accounts required.
 G300.1 | Networking | S2S VPN to on-premises is allowed if the company's security guidelines are followed.
 G400.1 | Cost | A monthly cost report splited by service is created. The IT lead and cost manager has access to these reports.
+G400.2 | Cost | A budget limit can be set through the implementation team.
 
 
 ## Next Steps
