@@ -96,4 +96,4 @@ G400.2 | Cost | A budget limit can be set through the implementation team.
 
 - [Azure Tips and Tricks](https://microsoft.github.io/AzureTipsAndTricks)
 - [Azure Governance Visualizer](https://github.com/microsoft/CloudAdoptionFramework/tree/master/govern/AzureGovernanceVisualizer)
-- [Assign Pull Requests to defined project](https://github.com/apps/project-bot]
+- [Assign Pull Requests to defined project](https://github.com/apps/project-bot)
