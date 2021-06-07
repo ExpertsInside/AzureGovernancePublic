@@ -8,7 +8,7 @@ We will cover the aspects in five different webinars. Later we will add the reco
 
 1. 18.05.2021: [Initialzündung](https://www.youtube.com/watch?v=g5VZktsFOSM)
 2. 01.06.2021: [Governance Light](https://www.youtube.com/watch?v=0EdJRGz8mCM)
-3. 08.06.2021
+3. 08.06.2021: [Identity & Permissions](https://www.eventbrite.ch/e/webinar-hiking-to-mount-azure-governance-identity-permissions-tickets-157389760009)
 4. 15.06.2021
 5. 22.06.2021
 
